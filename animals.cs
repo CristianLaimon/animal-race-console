@@ -10,9 +10,11 @@ class Animals
   public string GetNombre() => nombreAnimal;
   public string SetNombre(string nuevoNombre) => this.nombreAnimal = nuevoNombre;
 
-  public void Moverse(Animals animalCompetidor)
+  public int GetDistanceRun() => distanciaRecorrida;
+
+  public void Moverse()
   {
-    distanciaRecorrida += this.movimiento;
+    distanciaRecorrida += movimiento;
   }
 
   private string nombreAnimal;
