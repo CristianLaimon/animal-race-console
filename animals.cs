@@ -11,11 +11,7 @@ class Animals
   public string SetNombre(string nuevoNombre) => this.nombreAnimal = nuevoNombre;
 
   public int GetDistanceRun() => distanciaRecorrida;
-
-  public void Moverse()
-  {
-    distanciaRecorrida += movimiento;
-  }
+  public void Moverse() => distanciaRecorrida += movimiento;
 
   private string nombreAnimal;
   protected byte movimiento;
