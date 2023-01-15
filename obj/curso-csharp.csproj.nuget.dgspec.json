@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kristan/Desktop/curso-csharp/curso-csharp.csproj": {}
+    "/home/kristan/Desktop/Animal Race/curso-csharp.csproj": {}
   },
   "projects": {
-    "/home/kristan/Desktop/curso-csharp/curso-csharp.csproj": {
+    "/home/kristan/Desktop/Animal Race/curso-csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kristan/Desktop/curso-csharp/curso-csharp.csproj",
+        "projectUniqueName": "/home/kristan/Desktop/Animal Race/curso-csharp.csproj",
         "projectName": "curso-csharp",
-        "projectPath": "/home/kristan/Desktop/curso-csharp/curso-csharp.csproj",
+        "projectPath": "/home/kristan/Desktop/Animal Race/curso-csharp.csproj",
         "packagesPath": "/home/kristan/.nuget/packages/",
-        "outputPath": "/home/kristan/Desktop/curso-csharp/obj/",
+        "outputPath": "/home/kristan/Desktop/Animal Race/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kristan/.nuget/NuGet/NuGet.Config"
